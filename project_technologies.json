@@ -1,13 +1,14 @@
 {
     "technologies": {
         "apis": [
-            "insert apis"
+            "Web Speech"
+            "YouTube Data API"
         ],
         "platforms": [
-            "insert platforms"
+            "arduino"
         ],
         "toolkits": [
-            "insert toolkits"
+            "opencv"
         ]
     },
     "themes": [
