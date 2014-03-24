@@ -10,7 +10,7 @@
             "Lego Mindstorm"
         ],
         "toolkits": [
-            "opencv"
+            "opencv","openal","bullet"
         ]
     },
     "themes": [
