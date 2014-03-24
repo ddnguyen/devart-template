@@ -1,11 +1,13 @@
 {
     "technologies": {
         "apis": [
-            "Web Speech"
+            "Web Speech",
             "YouTube Data API"
         ],
         "platforms": [
-            "arduino"
+            "Arduino",
+            "PC",
+            "Lego Mindstorm"
         ],
         "toolkits": [
             "opencv"
