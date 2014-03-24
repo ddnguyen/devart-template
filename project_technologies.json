@@ -1,16 +1,19 @@
 {
     "technologies": {
         "apis": [
-            "insert apis"
+            "Web Speech",
+            "YouTube Data API"
         ],
         "platforms": [
-            "insert platforms"
+            "Arduino",
+            "PC",
+            "Lego Mindstorm"
         ],
         "toolkits": [
-            "insert toolkits"
+            "opencv","openal","bullet"
         ]
     },
     "themes": [
-        "insert themes"
+        "futurism", "user interface", "man machine"
     ]
 }
