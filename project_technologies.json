@@ -6,7 +6,7 @@
         ],
         "platforms": [
             "Arduino",
-            "PC",
+            "PC", "Mac", "iOS", "Android",
             "Lego Mindstorm"
         ],
         "toolkits": [
