@@ -5,8 +5,8 @@
             "YouTube Data API"
         ],
         "platforms": [
-            "Arduino",
-            "PC",
+            "raspberry pi",
+            "PC", "Mac", "iOS", "Android",
             "Lego Mindstorm"
         ],
         "toolkits": [
@@ -14,6 +14,6 @@
         ]
     },
     "themes": [
-        "futurism", "user interface", "man machine"
+        "futurism", "user interface", "man machine", "artificial intelligence", "machine sensing"
     ]
 }

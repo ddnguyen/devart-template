@@ -1,4 +1,4 @@
-Insert a description to describe your update to document your creative process. The Commissioned Interactive Artists will be doing the same so you can reference their Project Posts.
+This is an example of how to embed an image and video, from the original description.
 
 ![Example Image](../project_images/cover.jpg?raw=true "Example Image")
 
