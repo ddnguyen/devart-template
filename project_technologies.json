@@ -5,7 +5,7 @@
             "YouTube Data API"
         ],
         "platforms": [
-            "Arduino",
+            "raspberry pi",
             "PC", "Mac", "iOS", "Android",
             "Lego Mindstorm"
         ],
